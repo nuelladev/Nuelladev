@@ -6,6 +6,7 @@
 - 📫 How to reach me **Emmanuellaokafor42@yahoo.com**
 
 - ⚡ Fun fact **I love writing and trying out new things. I'm currently learning Devops**
+- Blog: https://emmanuella.hashnode.dev/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
