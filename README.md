@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuella Okafor</h1>
-<h3 align="center">Fullstack developer, Ux architect, and Java developer</h3>
+<h3 align="center">Backend-Heavy Developer with a core focus on ASP.net and Java Springboot</h3>
 
 - 💬 Ask me about **Technical writing, Html, Css, Javascript**
 
